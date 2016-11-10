@@ -3,7 +3,7 @@ html {
 }
 
 table {
-  border: 1px solid #ccc;
+  border: 1px solid #666;
 }
 
 th, td {
@@ -15,4 +15,26 @@ th, td {
   border: 1px solid #ccc;
   border-radius: 5px;
   background-color: #f2f2f2;
+  color: #333;
+}
+
+.eleventh {
+  border: 1px solid #b92828;
+  border-radius: 5px;
+  background-color: #f2bcbc;
+  color: #991919;
+}
+
+.fifteenth {
+  border: 1px solid #6b7e54;
+  border-radius: 5px;
+  background-color: #d1e0bf;
+  color: #51603f;
+}
+
+.twentytwo {
+  border: 1px solid #1d38da;
+  border-radius: 5px;
+  background-color: #d2d6f0;
+  color: #38448e;
 }
